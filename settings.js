@@ -4,7 +4,7 @@ const settings = {
   botName: 'ALEKSANDERV3',
   botOwner: 'VEIL',
   timezone: 'Africa/Accra',
-  prefix: '/',
+  prefix: '.',
   ownerNumber: '558281759455',
   AUTO_STATUS_REACT: 'false',
   AUTO_STATUS_REPLY: 'false',
